@@ -1,0 +1,22 @@
+body {
+    background-image: url('OIP.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+  input{
+      height: 15px;
+      width: 180px;
+  }
+  form{
+      float: left;
+  }
+  #home{
+      width: 46px;
+      float: inline-start;
+      opacity: 0.5;
+      height: 44px;
+      margin-top: 200px;
+      margin-left: 15px;
+      background: url('logo.jfif') 0  0;
+  }
